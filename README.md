@@ -12,20 +12,20 @@ You could signup in Pafcafe easily with an genuine email , which is needed for a
 You could clone ( download ) the source via either Git or Download Zip option and have it on your local PC.
 After making desired changes in the source you could run the server with command below :
 
-   $ rails s
+    $ rails s
    
 or more verbosely:
 
-   $ rails server
+    $ rails server
    
 Here I am assuming you have rails gem and all its dependencies installed,though.
 
 Although I haven't written the test modules yet ( I wanted this project running as soon as possible ), you could run your own tests with: 
 
-   $ rails t
+    $ rails t
    
 which is equivalent to :
 
-   $ rails test
+    $ rails test
    
 Ehsan Akbari, founder of PafCafe
